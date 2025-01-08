@@ -2,6 +2,8 @@
 
 Este proyecto utiliza **Streamlit** para simular el comportamiento de una neurona con diferentes configuraciones de entradas, pesos y sesgos. La interfaz permite realizar cálculos interactivos para entender el funcionamiento básico de las neuronas artificiales.
 
+Enlace para visitarlo:  https://neuronas-app-visual.streamlit.app/
+
 ---
 
 ## Características Principales
